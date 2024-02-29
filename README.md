@@ -1,9 +1,9 @@
 # Sophoverick
 
-##Projects
+## Projects
 
-##Research
+## Research
 
-##Career
+## Career
 
-##Weightlifting
+## Weightlifting
